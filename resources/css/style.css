@@ -25,3 +25,9 @@ color: white;
 font-size: 21px;
 color: gray;
 }
+
+.footer--logo{
+    text-align: right;
+    color:gray ;
+    font-size: 20px;
+}
